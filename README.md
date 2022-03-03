@@ -5,7 +5,7 @@ Instructions adapted from [here](https://emacs.stackexchange.com/questions/4253/
 1. start emacs from here (`pwd`) using `./cleanroom-emacs.sh`. 
 2. Use as you would normally.
 
-For configuration, see it is loaded on startup [init.el](init.el).
+For configuration, see [init.el](init.el), it is loaded on startup.
 
 Emacs modules, local settings, etc will be stored in `pwd`. 
 
